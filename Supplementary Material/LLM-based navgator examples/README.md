@@ -9,5 +9,5 @@ As seen in below Figure, after our tool provides the right email address, the co
 For signing out tasks, our tool fails mostly when it requires to click on the user name rather finding a ``Sign Out'' button/text in the setting page. 
 
 
-<img src="./examples-listner.pdf" alt="Figure: Usability issue in Listner App"   width="350"/>
+<img src="../examples-listner.pdf" alt="Figure: Usability issue in Listner App"   width="350"/>
 
