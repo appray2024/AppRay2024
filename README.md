@@ -13,3 +13,7 @@ This repository contains the source code, datasets, and supplementary material f
 
 FastBot2: credits to https://github.com/bytedance/Fastbot_Android
 
+## Examples of dark patterns
+
+<img src="./assets/examples-dark_patterns.png" alt="Example of dark patterns"  width="1000"/>
+
