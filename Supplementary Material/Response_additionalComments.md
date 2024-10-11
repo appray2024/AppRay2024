@@ -3,7 +3,7 @@
 **_We fully respect and appreciate reviewers’ constructive comments, and answer the additional comments as follows_** 
 
 
-***Reviewer_A*** 
+## Reviewer_A
 
 * **_Baselines Selection_**: In Table III, Sections V-B&C, UIGuard[13] and AidUI[12] are pioneering research efforts proposing automated methods for detecting dark patterns in single UI screens, unlike earlier (semi-)manual approaches. 
 
@@ -19,7 +19,7 @@
 
 
 
-**Reviewer_B&C:Threats&Limitations&Future Works** 
+## Reviewer_B, Reviewer_C:Threats&Limitations&Future Works** 
 
 The construction of the AppRay’s datasets pose a potential *internal threat* due to human bias in annotation. To mitigate this, two authors independently annotated the data, thoroughly understanding the taxonomy, and resolved discrepancies through discussions to ensure consistency and accuracy.  
 
@@ -30,7 +30,7 @@ Future Works: Future research could expand the dataset to include less popular a
 We will add this to the Threats to Validity section in the revision. 
 
 
-**Reviewer_C**   
+## Reviewer_C 
 
 **_Hierarchy Comparison for Deduplication_** 
 
