@@ -9,7 +9,7 @@ This repository contains the source code, datasets, and supplementary material f
   - AppRay-Light: 871 benign UIs.
 - Supplementary Material
   - [Response to the additional comments](Response_additionalComments.md)
-  - [Rule Table](./Supplementary%20Material/Rule Refiner.xlsx)
+  - [Rule Table](./Supplementary%20Material/Rule%20Refiner.xlsx)
   - [Examples and More Analysis on GPT results](./Supplementary%20Material/LLM-based%20navgator%20examples/)
   
 
