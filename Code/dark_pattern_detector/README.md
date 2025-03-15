@@ -5,6 +5,7 @@
  4. FastRCNN configuration follows [UIGuard](https://github.com/chenjshnn/UIST23-UIGuard) 
  5. GPU Server - Ubuntu 20.04, NVIDIA RTX A6000.
 
+
 ## How to Use
 1. The Dark Pattern Detector (DPD) model is trained by:
  
