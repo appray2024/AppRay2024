@@ -1,6 +1,6 @@
 # AppRay
 
-This repository contains the source code, datasets, and supplementary material for ICSE2025 submission
+This repository contains the source code, datasets, and supplementary material for ICSE2026 submission
 
 ## Resource
 - [Source Code](./Code)
@@ -8,9 +8,8 @@ This repository contains the source code, datasets, and supplementary material f
   - AppRay-Dark: 2,185 unique deceptive patterns (including 149 dynamic instances) across 18 types from 876 UIs
   - AppRay-Light: 871 benign UIs.
 - Supplementary Material
-  - [Response to the additional comments](./Supplementary%20Material/Response_additionalComments.md)
-  - [Rule Table](./Supplementary%20Material/Rule%20Refiner.xlsx)
   - [Examples and More Analysis on GPT results](./Supplementary%20Material/LLM-based%20navgator%20examples/)
+  - [Baseline Dataset Statistics and Performance](./Supplementary%20Material/Baseline Datasets)
   
 
 FastBot2: credits to https://github.com/bytedance/Fastbot_Android
